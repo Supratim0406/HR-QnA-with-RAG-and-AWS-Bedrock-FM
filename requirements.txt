@@ -1,0 +1,12 @@
+streamlit==1.43.1
+langchain==0.3.0
+langchain-core
+langchain-community
+langchain-aws==0.2.15
+boto3==1.37.11
+python-dotenv
+PyYAML
+transformers
+flask-sqlalchemy
+pypdf
+faiss-cpu
